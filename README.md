@@ -1,6 +1,10 @@
-# Decrypto
+# Decrypto -- English/Chinese version
 
-https://whoawhoa.github.io/decrypto/
+https://markovmicic.github.io/decrypto/
+
+forked from https://github.com/WhoaWhoa/decrypto
+
+probably has some bad translations.
 
 ## Decrypto - How To Play
 
